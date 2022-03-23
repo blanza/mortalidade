@@ -1,5 +1,5 @@
 # mortalidade
-Rotinas para replicar o artigo "Diferenciais de mortalidade por grupos de beneficiários do Instituto Nacional do Seguro Social". O repositório contém as rotinas elaboradas em R para gerar todas as estimativas e gráficos. Também disponibilizamos as tabelas em formato excel e cvs. 
+Rotinas para replicar o artigo "Diferenciais de mortalidade por grupos de beneficiários do Instituto Nacional do Seguro Social". O repositório contém as rotinas elaboradas em R para gerar todas as estimativas e gráficos. Também disponibilizamos as tabelas em formato excel e cvs. As rotinas permitem a replicação de todas as análises feitas no artigo. 
 
 # Resumo
 
