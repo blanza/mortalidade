@@ -21,7 +21,8 @@ Os mesmos arquivos foram disponibilizados em formato CSV e MS-Excel. Para o uso 
 - as rotinas avaliam e indicam qual as idades devem ser usadas na aplicação das Leis de Mortalidade. Usamos o RMSE para definir qual o intervalo de idade mais adequado para o desenvolvimento das próximas etapas do trabalho. 
   
 3. Aplicação das Leis de Mortalidade
-- 
+- A primeira parte da rotina mostra a aplicação de duas leis de mortalidade testadas no artigo (Gompertz e Van der Maen). É fundamental que seja feita a análise anterior para a definição das idades a serem usadas na aplicação das leis de mortalidade;
+- Na segunda parte, apresentamos a aplicação do Modelo Topals. O modelo suaviza e gera estimativas das taxas de mortalidade por idade simples com base em um modelo de regressão relacional. 
   
 4. Estimativas das tabelas de vida
 5. Estimativas das medidas sintéticas
