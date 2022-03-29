@@ -25,5 +25,10 @@ Os mesmos arquivos foram disponibilizados em formato CSV e MS-Excel. Para o uso 
 - Na segunda parte, apresentamos a aplicação do Modelo Topals. O modelo suaviza e gera estimativas das taxas de mortalidade por idade simples com base em um modelo de regressão relacional. 
   
 4. Estimativas das tabelas de vida
+- estão disponíveis o código em R para aplicação dos métodos e duas planilhas em Excel com as estimativas do log das taxas de mortalidade e das tábuas de vida estimadas, ambas com resultados por tipo de modelo, sexo e grupos de beneficiários.
+
 5. Estimativas das medidas sintéticas
-6. Rotinas para os gráficos. 
+- códigos em R para os cálculos dos indicadores C50 e IQR e, ainda, arquivos em Excel (xls ou csv) com os dados necessários para os cálculos desses indicadores, que são as funções de sobrevivência, óbitos e esperança de vida.
+  
+6. Rotinas para os gráficos
+- códigos em R e os dados de entrada necessários para gerar todas as figuras do artigo
