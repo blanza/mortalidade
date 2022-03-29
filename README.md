@@ -18,9 +18,11 @@ Os mesmos arquivos foram disponibilizados em formato CSV e MS-Excel. Para o uso 
 - As rotinas e dados permitem avaliar a qualidade dos dados de mortalidade em relação a preferência por digitos e em relação a sobre-declaração da idade a morte usando dois métodos diferentes. É necessário instalar no R o pacote Demotools (https://timriffe.github.io/DemoTools/)
   
 2. Seleção das idades para usar as leis de mortalidade
-  
+- as rotinas avaliam e indicam qual as idades devem ser usadas na aplicação das Leis de Mortalidade. Usamos o RMSE para definir qual o intervalo de idade mais adequado para o desenvolvimento das próximas etapas do trabalho. 
   
 3. Aplicação das Leis de Mortalidade
+- 
+  
 4. Estimativas das tabelas de vida
 5. Estimativas das medidas sintéticas
 6. Rotinas para os gráficos. 
