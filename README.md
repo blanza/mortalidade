@@ -15,7 +15,7 @@ Os mesmos arquivos foram disponibilizados em formato CSV e MS-Excel. Para o uso 
 # Descrição dos Arquivos
 
 1. Avaliação da Qualidade das Informações
-  As rotinas e dados permitem avaliar a qualidade dos dados de mortalidade em relação a preferência por digitos e em relação a sobre-declaração da idade a morte usando dois métodos diferentes. É necessário instalar no R o pacote Demotools (https://timriffe.github.io/DemoTools/)
+- As rotinas e dados permitem avaliar a qualidade dos dados de mortalidade em relação a preferência por digitos e em relação a sobre-declaração da idade a morte usando dois métodos diferentes. É necessário instalar no R o pacote Demotools (https://timriffe.github.io/DemoTools/)
   
 2. Seleção das idades para usar as leis de mortalidade
   
